@@ -112,5 +112,6 @@ Il file `App.jsx` si trova in `frontend/src/App.jsx`.
 - username: `maria`
 - password: `123stella`
 
+## Schermata login e inserimento film
 <img width="698" height="618" alt="immagine" src="https://github.com/user-attachments/assets/4b1b4555-f70c-41fe-8ea7-5898442e9d82" />
 
