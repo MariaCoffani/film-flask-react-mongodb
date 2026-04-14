@@ -48,7 +48,8 @@ Flusso dell'applicazione:
 5. Quando l'utente chiede i film o inserisce un film, React invia la richiesta con il cookie.
 6. Flask controlla se l'utente è autenticato.
 7. Se l'utente è autenticato, Flask legge o salva i dati su MongoDB.
-8. Flask restituisce i dati in formato JSON.
+8. Flask restituisce i dati al frontend React in formato JSON.
+9. React aggiorna l’interfaccia con i dati ricevuti.
 
 ## Frontend React
 
